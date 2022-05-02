@@ -1,0 +1,14 @@
+stages:
+  download_data:
+    cmd: Rscript R/download.R
+    deps:
+    - R/download.R
+    outs:
+    - cache/
+  make_parquet:
+    cmd: Rscript R/build.R
+    deps:
+    - R/build.R
+    - cache/
+    outs:
+    - data/
