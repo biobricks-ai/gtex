@@ -15,8 +15,8 @@ stages:
     cmd: Rscript R/build.R
     deps:
     - path: R/build.R
-      md5: 0beb84240e362142f24b7088bdecb2f5
-      size: 1103
+      md5: 4c1592fe591b01328aba539f5c698828
+      size: 1086
     - path: cache/
       md5: 6a5395c1c4d0f8360687ad37e6999321.dir
       size: 60968377

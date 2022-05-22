@@ -1,7 +1,6 @@
 library(purrr)
 library(vroom)
 library(arrow)
-library(stringr)
 
 outdir <- fs::dir_create("data")
 
