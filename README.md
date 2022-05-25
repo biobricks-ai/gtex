@@ -7,6 +7,8 @@ dependencies:
     url: https://gtexportal.org/home/documentationPage
 ---
 
+<a href="https://github.com/biobricks-ai/GTEx/actions"><img src="https://github.com/biobricks-ai/GTEx/actions/workflows/bricktools-check.yaml/badge.svg?branch=master"/></a>
+
 # The Genotype-Tissue Expression [GTEx](https://gtexportal.org/home/documentationPage) project
 >The Genotype-Tissue Expression (GTEx) project aims to provide to the scientific community a resource with which to study human gene expression and regulation and its relationship to genetic variation. This project will collect and analyze multiple human tissues from donors who are also densely genotyped, to assess genetic variation within their genomes. By analyzing global RNA expression within individual tissues and treating the expression levels of genes as quantitative traits, variations in gene expression that are highly correlated with genetic variation can be identified as expression quantitative trait loci, or eQTLs.
 
